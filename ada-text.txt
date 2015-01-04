@@ -1,0 +1,1 @@
+Ada Lovelace is an English mathematician and writer chiefly known for my work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. Her notes on the engine include what is recognised as the first algorithm intended to be carried out by a machine. Because of this, she is often described as the world's first computer programmer.
