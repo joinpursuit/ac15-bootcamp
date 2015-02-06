@@ -6,6 +6,7 @@
 /*
  * RED: #ff003b
  * GRAY: #e6e7e8
+ * CHARCOAL: #4d4d4d 
  */
 
 /* General selectors
@@ -23,15 +24,36 @@ a {
 }
 a:active,
 a:hover {
-    color: #ddd;
+    color: #4d4d4d;
+    text-decoration: underline;
 }
 p {
     margin: 0;
 }
 /* Class selectors
  */
+.clear {
+    clear: both;
+}
 .highlight {
     color: #ff003b;
+}
+.content {
+    margin: 0 50px 50px 300px;
+    max-width: 100%;
+}
+.wrapper {
+    padding: 50px 0;
+}
+.wrapper h1 {
+    color: white;
+    font-family: 'Abril Fatface', sans-serif;
+    padding-left: 15px;
+    position: absolute;
+    left: 50px;
+    margin: 0;
+    width: 150px;
+    z-index: 1000; /* This must be greater than the menu's z-index. */
 }
 
 /* Main blocks
@@ -63,13 +85,13 @@ p {
     background-repeat: no-repeat;
     color: #4d4d4d;
     height: 1000px;
+    padding-top: 100px; /* This should be the same as the menu. */
 }
 #intro.wrapper .content {
     font-family: 'Abril Fatface', sans-serif;
     font-size: 35px;
-    left: 300px;
-    position: relative;
-    top: 100px;  /* This should be the same as the menu. */
+    margin-top: 0;
+    max-width: 100%;
     width: 400px;
 }
 #work.wrapper {
@@ -77,29 +99,16 @@ p {
     box-sizing: border-box;
     font-family: 'Arial', sans-serif;
     font-size: 20px;
-    padding: 50px 0;
 }
-#work.wrapper .content {
-    margin: 50px 0;
-    position: relative;
-    left: 300px;
-    width: 650px;
+#contact.wrapper h1 {
+    color: #ff003b;
 }
-#resume.wrapper .content {
-    position: relative;
-    left: 300px;
+#contact.wrapper {
+    margin-bottom: 200px;
 }
-.wrapper h1 {
-    background: #ff003b;
-    color: white;
-    font-family: 'Abril Fatface', sans-serif;
-    padding: 60px 10px;
-    position: absolute;
-    left: 50px;
-    width: 150px;
-    z-index: 1000; /* This must be greater than the menu's z-index. */
-}
-#resume.wrapper h1 {
-    color: black;
-    background: white;
+#contact.wrapper .content {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    line-height: 1.35em;
+    font-style: italic;
 }

@@ -1,0 +1,29 @@
+/*
+ * Coalition for Queens
+ * Access Code 2015 bootcamp
+ */
+
+/*
+ * RED: #ff003b
+ * GRAY: #e6e7e8
+ * CHARCOAL: #4d4d4d 
+ */
+html {
+    border: 20px solid #ff003b;
+}
+body {
+    background: #e6e7e8;
+    margin: 40px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+h1,
+h3 {
+    font-family: 'Abril Fatface', san-serif;
+}
+p {
+    font-family: 'Arial', san-serif;
+}
+img {
+    width: 300px;
+}
