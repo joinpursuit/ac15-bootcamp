@@ -9,28 +9,52 @@
         <meta charset='UTF-8'>
         <link rel='stylesheet' type='text/css' href='ada.css'/>
         <link href='http://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
-        <link rel='shortcut icon' href='favicon.ico' />
+        <link rel='shortcut icon' href='ada-favicon.png' />
         <title>Ada Lovelace</title>
     </head>
     <body>
-        <div id="wrapper">
-            <ul id="menu">
-                <li>
-                    <a href="#">Bio</a>
-                </li>
-                <li>
-                    <a href="#">Work</a>
-                </li>
-                <li>
-                    <a href="#">Resume</a>
-                </li>
-            </ul>
-            <div id="intro" class="content">
-                Hi, my name is Ada Lovelace. I am an English mathematician, computationalist, and writer. You might know of me because of my work on Charles Babbage's mechanical general-purpose computer, the Analytical Engine. I have been called the world's first programmer.
-            </div>
-            <div id="history" class="content">
-                In 1842, Babbage was invited to give a seminar at the University of Turin about his Analytical Engine. Luigi Menabrea, a young Italian engineer, and future Prime Minister of Italy, wrote up Babbage's lecture in French, and this transcript was subsequently published in the Bibliothèque universelle de Genève in October 1842. Babbage's friend Charles Wheatstone commissioned Ada to translate Menabrea's paper into English. She then augmented the paper with notes, which were added to the translation. Ada spent the better part of a year doing this, assisted with input from Babbage. These notes, which are more extensive than Menabrea's paper, were then published in Taylor's Scientific Memoirs under the initialism AAL. In 1953, more than a century after her death, Ada's notes on Babbage's Analytical Engine were republished. The engine has now been recognized as an early model for a computer and Ada's notes as a description of a computer and software.[61]
-            </div>
+
+        <!-- Menu floats above content. -->
+        <ul id="menu">
+            <li>
+                <a href="#work">Work</a>
+            </li>
+            <li>
+                <a href="#resume">Resume</a>
+            </li>
+            <li>
+                <a href="http://en.wikipedia.org/wiki/Ada_Lovelace" target="_blank">Bio</a>
+            <li>
+        </ul>
+
+        <!-- Wrappers block content at the structural level. -->
+        <div id="intro" class="wrapper">
+            <p class="content">
+            Hi, my name is <span class="highlight">Ada Lovelace</span>. I am an English mathematician, computationalist, and writer. You might know of me because of my work on Charles Babbage's mechanical general-purpose computer, the Analytical Engine. I have been called the <span class="highlight">world's first programmer.</span>
+            </p>
+        </div>
+        <div id="work" class="wrapper">
+            <h1>Work</h1>
+            <p class="content">In 1842, Babbage was invited to give a seminar at the University of Turin about his Analytical Engine. Luigi Menabrea, a young Italian engineer, and future Prime Minister of Italy, wrote up Babbage's lecture in French, and this transcript was subsequently published in the Bibliothèque universelle de Genève in October 1842. Babbage's friend Charles Wheatstone commissioned Ada to translate Menabrea's paper into English. She then augmented the paper with notes, which were added to the translation. Ada spent the better part of a year doing this, assisted with input from Babbage. These notes, which are more extensive than Menabrea's paper, were then published in Taylor's Scientific Memoirs under the initialism AAL. In 1953, more than a century after her death, Ada's notes on Babbage's Analytical Engine were republished. The engine has now been recognized as an early model for a computer and Ada's notes as a description of a computer and software.
+            </p>
+        </div>
+        <div id="resume" class="wrapper">
+            <h1>Resume</h1>
+            <div class="content">
+                <h3>Personal Information</h3>
+                <ul>
+                    <li>Born: December 1815</li>
+                    <li>Education: some advanced mathematics at the University of London</li>
+                </ul>
+    Freelance Writer 
+    Antiques weekly columnist for The New York Times since 2008, and contributor to Times sections including Home, Arts & Leisure, Travel; hundreds of articles also published in Travel + Leisure, Art & Auction, House & Garden, Food & Wine, The New Yorker, The Wall Street Journal (Architecture Critic, 1991–95), The Washington Post, etc.
+
+    Contributing Editor and/or Staff Book Reviewer
+    House Beautiful (2006–2009), I.D. (International Design, 2002–09), ICON (World Monuments Fund’s quarterly, 2003–08), Style 1900 (2000–08), Interiors (1998–2001), Traditional Building and Period Homes (1988–2012)
+
+    Based in Budapest, 1995–99
+                </div>
+            <div>
         </div>
     </body>
 </html>

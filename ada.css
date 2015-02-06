@@ -1,45 +1,105 @@
 /*
  * Coalition for Queens
  * Access Code 2015 bootcamp
- *
- * Please put all styling here.
- *
- * For more on CSS selectors, see:
- * https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors
- *
- * Web colors are specified by "hex triplets" or hexes. For example, here are the hex values of some common colors:
- *     black      = #000000
- *     white      = #FFFFFF
- *     red        = #FF0000
- *     gray       = #787878
- *     dark green = #204F13
- *
- * You can use an online tool to find the hex values of any color you would like to use:
- * http://www.colorpicker.com/
  */
 
-h1 {
-    color: #134B97;
-}
+/*
+ * RED: #ff003b
+ * GRAY: #e6e7e8
+ */
+
+/* General selectors
+ */
 body {
     margin: 0;
 }
-
-#menu {
-    background: red;
-    position: fixed;
+ul {
+    list-style-type: none;
+    padding: 0;
 }
-#intro.content {
+a {
+    color: black;
+    text-decoration: none;
+}
+a:active,
+a:hover {
+    color: #ddd;
+}
+p {
+    margin: 0;
+}
+/* Class selectors
+ */
+.highlight {
+    color: #ff003b;
+}
+
+/* Main blocks
+ */
+#menu {
+    background: black;
+    left: 50px;
+    padding-left: 20px;
+    position: fixed;
+    top: 100px; /* This should be the same as the intro text. */
+    width: 150px;
+    z-index: 999;
+}
+#menu li {
+    margin: 20px 0;
+}
+#menu a {
+    color: white;
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+#menu a:hover {
+    color: #ff003b;
+}
+#intro.wrapper {
+    background: #e6e7e8;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    color: #4d4d4d;
+    height: 1000px;
+}
+#intro.wrapper .content {
     font-family: 'Abril Fatface', sans-serif;
     font-size: 35px;
-    left: 200px;
+    left: 300px;
     position: relative;
+    top: 100px;  /* This should be the same as the menu. */
     width: 400px;
 }
-#history.content {
-    background: red;
+#work.wrapper {
+    background: #ff003b;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
     font-size: 20px;
+    padding: 50px 0;
+}
+#work.wrapper .content {
     margin: 50px 0;
-    padding: 50px;
-    width: 100%;
+    position: relative;
+    left: 300px;
+    width: 650px;
+}
+#resume.wrapper .content {
+    position: relative;
+    left: 300px;
+}
+.wrapper h1 {
+    background: #ff003b;
+    color: white;
+    font-family: 'Abril Fatface', sans-serif;
+    padding: 60px 10px;
+    position: absolute;
+    left: 50px;
+    width: 150px;
+    z-index: 1000; /* This must be greater than the menu's z-index. */
+}
+#resume.wrapper h1 {
+    color: black;
+    background: white;
 }
