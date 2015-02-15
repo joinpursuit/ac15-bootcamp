@@ -5,3 +5,14 @@ Build your own personal page!
 - Consider using `ul`, `ol`, and `table` tags for additional structure.
 - Use header (`h1`, `h2`...), `p`, and `span` tags for textual hierarchy.
 - Use fonts, colors, borders, positioning or whatever else to make it fun.
+
+Implementation
+=
+- Please use [http://jsbin.com/](jsbin.com) for the assignment.
+- Click `File > Save snapshot` to save your work.
+- Click `Share` and copy the link under `Output only (with live reload)`.
+- Email us the link.
+
+Evaluation
+=
+- 
