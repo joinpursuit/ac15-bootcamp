@@ -18,6 +18,7 @@ Things you *will* be evaluated on.
 - Correct HTML and CSS syntax.
 - Neat formatting.
 - Using a variety of HTML elements and CSS properties.
+- Initiative to use on-line resources to learn more about HTML and CSS.
 
 Things you *will not* be evaluated on
 =
