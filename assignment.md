@@ -13,6 +13,13 @@ Implementation
 - Click `Share` and copy the link under `Output only (with live reload)`.
 - Email us the link.
 
-Evaluation
+Things you *will* be evaluated on.
 =
-- 
+- Correct HTML and CSS syntax.
+- Neat formatting.
+- Using a variety of HTML elements and CSS properties.
+
+Things you *will not* be evaluated on
+=
+- Aesthetics.
+- Details of the content itself.
