@@ -8,13 +8,14 @@ Build your own personal page!
 
 Implementation
 =
-- Please use [http://jsbin.com/](jsbin.com) for the assignment.
+- Please use [jsbin](jsbin.com) for the assignment.
 - Click `File > Save snapshot` to save your work.
 - Click `Share` and copy the link under `Output only (with live reload)`.
-- Email us the link.
+- Copy the link into TODO form.
 
 Things you *will* be evaluated on.
 =
+We will look at the HTML and CSS source code, not only the finished web page.
 - Correct HTML and CSS syntax.
 - Neat formatting.
 - Using a variety of HTML elements and CSS properties.
