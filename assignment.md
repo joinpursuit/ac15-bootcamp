@@ -23,5 +23,5 @@ We will look at the HTML and CSS source code, not only the finished web page.
 
 Things you *will not* be evaluated on
 =
-- Aesthetics.
+- Aesthetics, as long as you make a reasonable effort to lay things out nicely.
 - Details of the content itself.
