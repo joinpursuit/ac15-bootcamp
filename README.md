@@ -46,7 +46,6 @@ copy of the page, so you can feel free to change it any way you like.
 You can create your own github account to store and publish your own code.
 We strongly encourage you to do this, if you haven't yet!
 
-
 Resources
 =
 
@@ -81,4 +80,29 @@ Here are some particulrly useful links.
   and answer site.  Nearly any HTML or CSS question you can imagine has been
   asked here, and has a number of useful anwers.  Just browsing is a great way
   to learn.
+
+View Source
+=
+
+Another great way to learn about web sites is to study them.  You can examine
+the HTML code of _each and every_ web site that you can visit in your web
+browser.  Here's how to do this:
+
+- In Chrome, press Control-Alt-U (Windows) or Command-Option-U (Mac).
+
+- In Safari, first open the Preferences > Advanced tab and check "Show Develop
+  menu in menu bar".  Then, press Command-Option-U to view a page's HTML source.
+
+- In Firefox, press Control-U (Windows) or Command-U (Mac).
+
+- In Internet Explorer, first download and install Chrome or Firefox.  Then
+  follow the instructions above.  :)
+
+Viewing the CSS code is almost as simple.  Most sites store CSS in a separate
+file.  Look through the HTML code for the site for a link to a .css file (there
+may be more than one); use the search feature to help you do this.  Click on the
+link to load the CSS file.
+
+Note that many modern sites use very dense "minimized" HTML and CSS code, which
+may be hard to read.  Try looking at simple sites to learn your way around.
 
