@@ -103,6 +103,6 @@ file.  Look through the HTML code for the site for a link to a .css file (there
 may be more than one); use the search feature to help you do this.  Click on the
 link to load the CSS file.
 
-Note that many modern sites use very dense "minimized" HTML and CSS code, which
+Note that many modern sites use very dense "minified" HTML and CSS code, which
 may be hard to read.  Try looking at simple sites to learn your way around.
 
