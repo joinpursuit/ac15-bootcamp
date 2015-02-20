@@ -8,7 +8,7 @@ Build your own personal page!
 
 Implementation
 =
-- Please use [jsbin](jsbin.com) for the assignment.
+- Please use [jsbin](http://jsbin.com) for the assignment.
 - Click `File > Save snapshot` to save your work.
 - Click `Share` and copy the link under `Output only (with live reload)`.
 - Copy the link into TODO form.
