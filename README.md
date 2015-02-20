@@ -20,9 +20,9 @@ Environment
 
 For this workshop, we'll use a simplified web development environment,
 [jsbin](jsbin.com).  This site allows web developers to create and experiment
-with simpler web pages in an easy online environment.  You'll edit HTML and
-CSS code directly on the site, and your web page will be rendered (displayed)
-live in the same window.  It's the easiest way to get started.
+with simple web pages in an easy online environment.  You'll edit HTML and CSS
+code directly on the site, and your web page will be rendered (displayed) live
+in the same window.  It's the easiest way to get started.
 
 Files
 =
@@ -32,6 +32,16 @@ github repo.  github is the most widely-used online system for storing
 and sharing code.  A repository (or "repo") is a project in github, where a
 number of related files are stored together.  We've created this repo to share
 with you the files you'll need.
+
+You can also access the sample web pages directly in jsbin.  To edit, click the
+jsbin button in the upper right.  It will automatically make you your own
+copy of the page, so you can feel free to change it any way you like.
+
+- (index.html)[http://jsbin.com/revupi]
+
+- (ada-resume.html)[http://jsbin.com/fovike], Ada's resume
+
+- (ada.html)[http://jsbin.com/cibuwe], Ada's personal page
 
 You can create your own github account to store and publish your own code.
 We strongly encourage you to do this, if you haven't yet!
