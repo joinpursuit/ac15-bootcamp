@@ -88,12 +88,12 @@ Another great way to learn about web sites is to study them.  You can examine
 the HTML code of _each and every_ web site that you can visit in your web
 browser.  Here's how to do this:
 
-- In Chrome, press Control-U (Windows or Linux) or Command-Option-U (Mac).
+- In Chrome, press `Control-U` (Windows or Linux) or `Command-Option-U` (Mac).
 
-- In Firefox, press Control-U (Windows or Linux) or Command-U (Mac).
+- In Firefox, press `Control-U` (Windows or Linux) or `Command-U` (Mac).
 
-- In Safari, first open the Preferences > Advanced tab and check "Show Develop
-  menu in menu bar".  Then, press Command-Option-U to view a page's HTML source.
+- In Safari, first open the `Preferences > Advanced` tab and check `Show Develop
+  menu in menu bar`.  Then, press `Command-Option-U` to view a page's HTML source.
 
 - In Internet Explorer, first download and install Chrome or Firefox.  Then
   follow the instructions above.  :)
