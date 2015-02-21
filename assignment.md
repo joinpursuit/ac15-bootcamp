@@ -9,6 +9,7 @@ Build your own personal page!
 Implementation
 =
 - Please use [jsbin](http://jsbin.com) for the assignment, or a similar tool like [codepen](http://codepen.io) or [cssdeck](http://cssdeck.com) if you have problems with jsbin.
+- _Save your work frequently._
 - Click `File > Save snapshot` to save your work.
 - Click `Share` and copy the link under `Output only (with live reload)`.
 
