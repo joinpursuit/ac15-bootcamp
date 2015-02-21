@@ -13,9 +13,9 @@ Implementation
 - Click `Share` and copy the link under `Output only (with live reload)`.
 - Fill out [this form](https://c4qnyc.wufoo.com/forms/access-code-htmlcss-workshop-project-submission/) and enter the link to your page.
  
-* The form is due 7:30 PM on Sunday, Feb 22 if you were in the first workshop. *
+_The form is due 7:30 PM on Sunday, Feb 22 if you were in the first workshop._
 
-* The form is due 11:30 PM on Sunday, Feb 22 if you were in the first workshop. *
+_The form is due 11:30 PM on Sunday, Feb 22 if you were in the first workshop._
 
 Things you *will* be evaluated on.
 =
