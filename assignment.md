@@ -8,7 +8,7 @@ Build your own personal page!
 
 Implementation
 =
-- Please use [jsbin](http://jsbin.com) for the assignment, or a similar tool like [codepen](codepen.io) or (cssdeck)[cssdeck.com] if you have problems with jsbin.
+- Please use [jsbin](http://jsbin.com) for the assignment, or a similar tool like [codepen](http://codepen.io) or (cssdeck)[http://cssdeck.com] if you have problems with jsbin.
 - Click `File > Save snapshot` to save your work.
 - Click `Share` and copy the link under `Output only (with live reload)`.
 - Fill out [this form](https://c4qnyc.wufoo.com/forms/access-code-htmlcss-workshop-project-submission/) and enter the link to your page.
