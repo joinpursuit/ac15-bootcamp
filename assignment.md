@@ -11,7 +11,7 @@ Implementation
 - Please use [jsbin](http://jsbin.com) for the assignment.
 - Click `File > Save snapshot` to save your work.
 - Click `Share` and copy the link under `Output only (with live reload)`.
-- Copy the link into TODO form.
+- Fill out [this form](https://c4qnyc.wufoo.com/forms/access-code-htmlcss-workshop-project-submission/) and enter the link to your page.
 
 Things you *will* be evaluated on.
 =
