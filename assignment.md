@@ -8,10 +8,16 @@ Build your own personal page!
 
 Implementation
 =
-- Please use [jsbin](http://jsbin.com) for the assignment.
+- Please use [jsbin](http://jsbin.com) for the assignment, or a similar tool like [codepen](http://codepen.io) or [cssdeck](http://cssdeck.com) if you have problems with jsbin.
+- _Save your work frequently._
 - Click `File > Save snapshot` to save your work.
 - Click `Share` and copy the link under `Output only (with live reload)`.
-- Fill out [this form](https://c4qnyc.wufoo.com/forms/access-code-htmlcss-workshop-project-submission/) and enter the link to your page.
+
+_If you were in the morning workshop:_ 
+The form is due 7:30 PM on Sunday, Feb 22.  Please complete [this form](https://c4qnyc.wufoo.com/forms/access-code-workshop-am-project-submission/)
+
+_If you were in the afternoon workshop:_ 
+The form is due 11:59 PM on Sunday, Feb 22.  Please complete [this form](https://c4qnyc.wufoo.com/forms/access-code-workshop-pm-project-submission/)
 
 Things you *will* be evaluated on.
 =

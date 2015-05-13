@@ -37,7 +37,7 @@ You can also access the sample web pages directly in jsbin.  To edit, click the
 jsbin button in the upper right.  It will automatically make you your own
 copy of the page, so you can feel free to change it any way you like.
 
-- [index.html](http://jsbin.com/revupi), the skeleton page for your own work
+- [index.html](http://cssdeck.com/labs/zkmlv8qy), the skeleton page for your own work
 
 - [ada-resume.html](http://jsbin.com/fovike), Ada's resume
 
