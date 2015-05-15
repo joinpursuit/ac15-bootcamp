@@ -1,6 +1,6 @@
 # Intro to HTML & CSS
 
-#### Review of CodeAcademy's HTML & CSS course
+### Review of CodeAcademy's HTML & CSS course
 
 HTML
 - Glossary: http://www.codecademy.com/glossary/html
@@ -26,7 +26,7 @@ title {
 
 > **Exercise:** ???
 
-#### Padding and margins
+### Padding and margins
 
 - Margin separates a block from things outside of it
 - Padding separates contents away from the edges of its block
@@ -35,7 +35,7 @@ title {
 
 > **Exercise:** 
 
-#### Block, inline, inline-block
+### Block, inline, inline-block
 
 The `display` property has three possible values: `inline`, `block`, and `inline-block`:
 
@@ -60,7 +60,7 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 >
 > *"On the other hand, information wants to be free, because the cost of getting it out is getting lower and lower all the time. So you have these two fighting against each other."*
 
-#### Positioning
+### Positioning
 
 **Position**
 - `static`: position element in order, in document flow (cannot set `top`, `bottom`, `left,` or `right`)
@@ -97,7 +97,7 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 >
 > ![float-clear](images/float-clear.png)
 
-#### Custom fonts
+### Custom fonts
 
 # In-class assignment
 Work in teams of four to build a weather/alarm clock.
