@@ -1,6 +1,3 @@
-[https://github.com/C4Q/ac15-bootcamp](https://github.com/C4Q/ac15-bootcamp)
-=
-
 Access Code 2015 bootcamp
 =
 
@@ -19,7 +16,7 @@ Environment
 =
 
 For this workshop, we'll use a simplified web development environment,
-[jsbin](http://jsbin.com/).  This site allows web developers to create and experiment
+[jsbin](http://jsbin.indetermi.net:3000).  This site allows web developers to create and experiment
 with simple web pages in an easy online environment.  You'll edit HTML and CSS
 code directly on the site, and your web page will be rendered (displayed) live
 in the same window.  It's the easiest way to get started.
@@ -49,7 +46,7 @@ We strongly encourage you to do this, if you haven't yet!
 Resources
 =
 
-The slides and materials in this workshop are just to get you started-- consider
+The materials in this workshop are just to get you started-- consider
 them a jumping-off point for all the great information out there on the Web
 about HTML, CSS, and any other technology topic.  
 
@@ -106,3 +103,11 @@ link to load the CSS file.
 Note that many modern sites use very dense "minified" HTML and CSS code, which
 may be hard to read.  Try looking at simple sites to learn your way around.
 
+Submission
+=
+
+Due dates:
+- AM workshop: 7:00PM,  5/17
+- PM workshop: 11:30PM, 5/17
+
+Please use [this form](https://c4qnyc.wufoo.com/forms/m1udli9s1vp3bvm/).
