@@ -91,7 +91,7 @@ Bad CSS:
 
 ### Box Model (padding and margins)
 
-HTML tags can be thought of as boxes. This is called the "box model", and it consists of: `margin`, `border`, `padding`, and the actual content. The three previous properties can be suffixed with `-top`, `-bottom`, `left`, and `right` in order to target only one side of the box. For example:
+HTML tags can be thought of as boxes. This is called the "box model", and it consists of: `margin`, `border`, `padding`, and the actual content. The three previous properties can be suffixed with `-top`, `-bottom`, `-left`, and `-right` in order to target only one side of the box. For example:
 
 ```css
 div {
