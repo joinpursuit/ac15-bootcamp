@@ -59,19 +59,18 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 #### Positioning
 
 **Position**
-- `static`: position element in order, in document flow
-  - Cannot set `top`, `bottom`, `left,` or `right`
-![static](images/static.png)
+- `static`: position element in order, in document flow (cannot set `top`, `bottom`, `left,` or `right`)
+  ![static](images/static.png)
 
 - `relative`: position the element relative to its default position
-![relative](images/relative.png)
+  ![relative](images/relative.png)
 
 - `absolute`: position element relative to top-left of page
-![absolute](images/absolute.png)
+  ![absolute](images/absolute.png)
 
 - `fixed`: position element in a fixed location on page
-![fixed](images/fixed1.png)
-![fixed](images/fixed2.png)
+  ![fixed](images/fixed1.png)
+  ![fixed](images/fixed2.png)
 
 > **Exercise:** Create a fixed navigation bar.
 
