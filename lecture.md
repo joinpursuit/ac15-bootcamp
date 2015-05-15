@@ -59,8 +59,9 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 #### Positioning
 
 **Position**
-- `static`: position element in order, in document flow (cannot set `top`, `bottom`, `left,` or `right`)
-  ![static](images/static.png)
+- `static`
+  - position element in order, in document flow (cannot set `top`, `bottom`, `left,` or `right`)
+  - ![static](images/static.png)
 
 - `relative`: position the element relative to its default position
   ![relative](images/relative.png)
