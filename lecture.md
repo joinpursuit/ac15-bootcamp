@@ -162,4 +162,4 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 Work in teams of four to build a weather/alarm clock.
 
 # Homework assignment
-[See here.](assignment/README.md)
+[See here.](weather-app/README.md)
