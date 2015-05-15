@@ -1,6 +1,9 @@
-div {
-    border: 3px solid red;
+h1 {
+    border-bottom: 1px solid black;
+    margin-bottom: 30px;
+    padding-left: 50px;
+}
+p {
     background: cyan;
-    width: 100px;
-    height: 100px;
+    padding: 50px;
 }

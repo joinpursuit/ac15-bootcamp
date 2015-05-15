@@ -26,14 +26,16 @@ title {
 
 > **Exercise:** ???
 
-### Padding and margins
+### Box Model (padding and margins)
 
 - Margin separates a block from things outside of it
 - Padding separates contents away from the edges of its block
 
-![box-model](images/box-model.png)
+![box-model](images/box-model1.png)
 
-> **Exercise:** 
+> **Exercise:** Use the `padding` and `margin` properties to recreate the image below:
+
+![box-model](images/box-model2.png)
 
 ### Block, inline, inline-block
 
