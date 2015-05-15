@@ -30,16 +30,6 @@ and sharing code.  A repository (or "repo") is a project in github, where a
 number of related files are stored together.  We've created this repo to share
 with you the files you'll need.
 
-You can also access the sample web pages directly in jsbin.  To edit, click the
-jsbin button in the upper right.  It will automatically make you your own
-copy of the page, so you can feel free to change it any way you like.
-
-- [index.html](http://cssdeck.com/labs/zkmlv8qy), the skeleton page for your own work
-
-- [ada-resume.html](http://jsbin.com/fovike), Ada's resume
-
-- [ada.html](http://jsbin.com/cibuwe), Ada's personal page
-
 You can create your own github account to store and publish your own code.
 We strongly encourage you to do this, if you haven't yet!
 
