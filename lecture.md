@@ -16,6 +16,7 @@ HTML
 CSS
 - Glossary: http://www.codecademy.com/glossary/css
 - "Cascading Style Sheets"
+- Adds style to the page
 - Multiple selectors can target the same HTML; precedence rules decide which selector is applied.
 
 ```css
@@ -55,24 +56,32 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 >
 > *"On the other hand, information wants to be free, because the cost of getting it out is getting lower and lower all the time. So you have these two fighting against each other."*
 
-
 #### Positioning
 
-`position` values
+**Position**
 - `static`: position element in order, in document flow
-- `absolute`: position element relative to top-left of page
-- `fixed`: position element in a fixed location on page
+  - Cannot set `top`, `bottom`, `left,` or `right`
+![static](images/static.png)
+
 - `relative`: position the element relative to its default position
+![relative](images/relative.png)
+
+- `absolute`: position element relative to top-left of page
+![absolute](images/absolute.png)
+
+- `fixed`: position element in a fixed location on page
+![fixed](images/fixed1.png)
+![fixed](images/fixed2.png)
 
 > **Exercise:** Create a fixed navigation bar.
 
 #### Float and clear
 
-`float` values
+**Float**
 - `left`: float element left
 - `right`: float element right
 
-`clear` values
+**Clear**
 - `left`: clears a left float
 - `right`: clears a right flow
 - `both`: clears both
@@ -80,6 +89,8 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 > **Exercise:** Create a page with four sections: two horizontal sections with two equal-width sections in between. See the example below. Don't use a `table` tag. Use `float` and `clear`.
 >
 > ![float-clear](images/float-clear.png)
+
+#### Custom fonts
 
 # In-class assignment
 Work in teams of four to build a weather/alarm clock.
