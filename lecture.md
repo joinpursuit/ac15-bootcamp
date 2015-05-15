@@ -178,6 +178,10 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 
 ### Custom fonts
 
+[Google Fonts](https://www.google.com/fonts) are a great online resource for adding custom fonts to your web pages. Just copy and paste the `link` tag provided on the "Quick use" page. For example:
+
+`<link href='http://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>`
+
 # In-class, team assignment
 
 Work in teams of four to build a small, static HTML and CSS weather app. Use [index.html](weather-app/index.html) as a starting point to build a simple weather application. Work with your teammates to design the app and then each person must execute a different section: morning, day, evening, night. We have provided [an example](weather-app/example). This is for inspiration and a starting point, but you need--and should not--simply copy it.
