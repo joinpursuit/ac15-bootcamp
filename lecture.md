@@ -91,8 +91,22 @@ Bad CSS:
 
 ### Box Model (padding and margins)
 
-- Margin separates a block from things outside of it
-- Padding separates contents away from the edges of its block
+HTML tags can be thought of as boxes. This is called the "box model", and it consists of: `margin`, `border`, `padding`, and the actual content. The three previous properties can be suffixed with `-top`, `-bottom`, `left`, and `right` in order to target only one side of the box. For example:
+
+```css
+div {
+    margin-top: 20px;
+}
+```
+
+**Margin**
+- Separates a block from things outside of it
+
+**Padding**
+- Separates contents away from the edges of its block
+
+**Border**
+- The edge of the content
 
 ![box-model](images/box-model1.png)
 
