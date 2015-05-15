@@ -28,9 +28,37 @@ title {
 
 Programmers can be religious about style. Rather than bore you with the details, I'd like you to just follow these formatting conventions:
 
-CSS
+HTML:
+```
+<body>
+    <head></head>
+    <body>
+        <p>Some text</p>
+        <img src="example.png">
+        <div class="stuff">
+            <p>Some more text</p>
+        </div>
+    </body>
+</body>
+```
 
-```css
+Not:
+```
+<body>
+    <head></head>
+        <body>
+        <p>Some text</p>
+            <img src="example.png">
+        <div class="stuff">
+            <p>Some more text</p>
+    </div>
+    </body>
+</body>
+
+```
+
+CSS:
+```
 [selector] {
     [property]: [value]
 }
@@ -38,7 +66,7 @@ CSS
 
 Multiple selectors:
 
-```css
+```
 [selector1],
 [selector2] {
     [property]: [value]
