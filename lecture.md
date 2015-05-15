@@ -5,7 +5,6 @@
 HTML
 - Glossary: http://www.codecademy.com/glossary/html
 - "Hypertext Markup Language"
-- The language of web pages
 - Adds structure and meaning to content
 - In principle, a person should be able to understand the structure and meaning of your web page without being able to see it.
 
@@ -29,7 +28,12 @@ title {
 
 #### Padding and margins
 
+- Margin separates a block from things outside of it
+- Padding separates contents away from the edges of its block
 
+![box-model](images/box-model.png)
+
+> **Exercise:** 
 
 #### Block, inline, inline-block
 
