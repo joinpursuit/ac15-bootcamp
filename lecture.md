@@ -158,8 +158,12 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 
 ### Custom fonts
 
-# In-class assignment
-Work in teams of four to build a weather/alarm clock.
+# In-class, team assignment
+
+Work in teams of four to build a small, static HTML and CSS weather app. Use [index.html](weather-app/index.html) as a starting point to build a simple weather application. Work with your teammates to design the app and then each person must execute a different section: morning, day, evening, night. We have provided [an example](weather-app/example). This is for inspiration and a starting point, but you need--and should not--simply copy it.
+
+![example](weather-app/example/example.png)
+
 
 # Homework assignment
-[See here.](weather-app/README.md)
+[See here.](assignment.md)
