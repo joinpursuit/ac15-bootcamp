@@ -34,8 +34,8 @@ title {
 ![box-model](images/box-model1.png)
 
 > **Exercise:** Use the `padding` and `margin` properties to recreate the image below:
-
-![box-model](images/box-model2.png)
+>
+> ![box-model](images/box-model2.png)
 
 ### Block, inline, inline-block
 
