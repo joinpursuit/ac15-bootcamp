@@ -28,7 +28,7 @@ title {
 
 Programmers can be religious about style. Rather than bore you with the details, I'd like you to just follow these formatting conventions:
 
-HTML:
+Good HTML:
 ```
 <body>
     <head></head>
@@ -42,7 +42,7 @@ HTML:
 </body>
 ```
 
-Not:
+Bad HTML:
 ```
 <body>
     <head></head>
@@ -57,27 +57,27 @@ Not:
 
 ```
 
-CSS:
+Good CSS:
 ```
 #someId {
-    width: 100px;
+    background: blue;
 }
-```
-
-Multiple selectors:
-
-```
-#someId,
+#anotherId,
 .someClass {
     width: 100px;
 }
 ```
 
-Not:
+Bad CSS:
 ```
-#someId{
-    width: 100px;
-  height: 20px;
+#someId {
+    background:blue;
+}
+
+
+#anotherId,
+.someClass {
+  width: 100px;
 }
 ```
 
