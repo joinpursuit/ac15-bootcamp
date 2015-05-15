@@ -59,17 +59,25 @@ Not:
 
 CSS:
 ```
-[selector] {
-    [property]: [value]
+#someId {
+    width: 100px;
 }
 ```
 
 Multiple selectors:
 
 ```
-[selector1],
-[selector2] {
-    [property]: [value]
+#someId,
+.someClass {
+    width: 100px;
+}
+```
+
+Not:
+```
+#someId{
+    width: 100px;
+  height: 20px;
 }
 ```
 
