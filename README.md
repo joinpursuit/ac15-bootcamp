@@ -102,12 +102,3 @@ link to load the CSS file.
 
 Note that many modern sites use very dense "minified" HTML and CSS code, which
 may be hard to read.  Try looking at simple sites to learn your way around.
-
-Submission
-=
-
-Due dates:
-- AM workshop: 7:00PM,  5/17
-- PM workshop: 11:30PM, 5/17
-
-Please use [this form](https://c4qnyc.wufoo.com/forms/m1udli9s1vp3bvm/).
