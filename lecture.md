@@ -1,5 +1,11 @@
 # Intro to HTML & CSS
 
+### Environment
+
+For this workshop, we'll use a simplified web development environment, [jsbin](http://jsbin.indetermi.net:3000). This site allows web developers to create and experiment
+with simple web pages in an easy online environment. You'll edit HTML and CSS code directly on the site, and your web page will be rendered (displayed) live
+in the same window. It's the easiest way to get started.
+
 ### Review of CodeAcademy's HTML & CSS course
 
 HTML
