@@ -36,7 +36,7 @@ Programmers can be religious about style. Rather than bore you with the details,
 
 Good HTML:
 ```html
-<body>
+<html>
     <head></head>
     <body>
         <p>Some text</p>
@@ -45,12 +45,12 @@ Good HTML:
             <p>Some more text</p>
         </div>
     </body>
-</body>
+</html>
 ```
 
 Bad HTML:
 ```html
-<body>
+<html>
     <head></head>
         <body>
         <p>Some text</p>
@@ -59,7 +59,7 @@ Bad HTML:
             <p>Some more text</p>
     </div>
     </body>
-</body>
+</html>
 
 ```
 
