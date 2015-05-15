@@ -73,8 +73,8 @@ The `display` property has three possible values: `inline`, `block`, and `inline
   ![fixed](images/fixed2.png)
 
 > **Exercise:** Create a fixed navigation bar. See this example:
-> ![nav1](image/nav1.png)
-> ![nav2](image/nav2.png)
+> ![nav1](images/nav1.png)
+> ![nav2](images/nav2.png)
 
 #### Float and clear
 
