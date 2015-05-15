@@ -51,9 +51,9 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 >
 > ![information](images/information.png)
 >
-> >"On the one hand information wants to be expensive, because it's so valuable. The right information in the right place just changes your life.
-> >
-> > On the other hand, information wants to be free, because the cost of getting it out is getting lower and lower all the time. So you have these two fighting against each other."
+> *"On the one hand information wants to be expensive, because it's so valuable. The right information in the right place just changes your life.
+>
+> "On the other hand, information wants to be free, because the cost of getting it out is getting lower and lower all the time. So you have these two fighting against each other."*
 
 
 #### Positioning
@@ -77,7 +77,7 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 - `right`: clears a right flow
 - `both`: clears both
 
-> **Exercise:** Create a page with four sections: two horizontal sections with two equal-width sections in between. See the example below. Don't use a table. Use `float` and `clear`.
+> **Exercise:** Create a page with four sections: two horizontal sections with two equal-width sections in between. See the example below. Don't use a `table` tag. Use `float` and `clear`.
 >
 > ![float-clear](images/float-clear.png)
 
