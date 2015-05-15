@@ -1,0 +1,45 @@
+body {
+    background: #eee;
+}
+h2,
+h3 {
+    font-family: 'Roboto Slab', sans-serif; 
+}
+.content {
+    background: white;
+    border: 1px solid #eee;
+    margin: 70px auto;
+    padding: 15px 20px;
+    width: 300px;
+}
+section {
+    overflow: hidden;
+    padding: 10px;
+    margin: 5px 0;
+}
+.icon {
+    float: right;
+    width: 80px;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+#morning {
+    background: #f1faff;
+}
+#day {
+    background: #fff1c4;
+}
+#evening {
+    background: #ffd31d;
+}
+#night {
+    color: white;
+    background: #292163;
+}

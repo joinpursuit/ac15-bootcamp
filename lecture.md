@@ -81,8 +81,7 @@ Bad CSS:
 }
 ```
 
-Consistency is key. Want to see a lot of good CSS? Check out [http://getbootstrap.com/dist/css/bootstrap.css](Twitter Bootstrap).
-
+*Consistency is key.*
 
 ### Box Model (padding and margins)
 
@@ -163,4 +162,4 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 Work in teams of four to build a weather/alarm clock.
 
 # Homework assignment
-[Here](assignment.md)
+[See here.](assignment/README.md)
