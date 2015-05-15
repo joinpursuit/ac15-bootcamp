@@ -24,22 +24,26 @@ title {
 }
 ```
 
-> Exercise: 
+> **Exercise:** ???
+
+#### Padding and margins
+
+
 
 #### Block, inline, inline-block
 
 The `display` property has three possible values: `inline`, `block`, and `inline-block`:
 
-Inline
+**Inline**
 - `width` and `height` cannot be set
 - Allows other elements to sit to their left and right
 - Respect left/right padding/margin but not top/bottom
 
-Block
+**Block**
 - Forces a line break after the block element
 - `width`, `height`, `margin`, and `padding` can all be set
 
-Inline-block
+**Inline-block**
 - Allows other elements to sit to their left and right
 - `width`, `height`, `margin`, and `padding` can all be set
 
@@ -51,7 +55,6 @@ Inline-block
 > >
 > > On the other hand, information wants to be free, because the cost of getting it out is getting lower and lower all the time. So you have these two fighting against each other."
 
-#### Padding and margins
 
 #### Positioning
 
@@ -73,6 +76,10 @@ Inline-block
 - `left`: clears a left float
 - `right`: clears a right flow
 - `both`: clears both
+
+> **Exercise:** Create a page with four sections: two horizontal sections with two equal-width sections in between. See the example below. Don't use a table. Use `float` and `clear`.
+>
+> ![float-clear](float-clear.png)
 
 # In-class assignment
 Work in teams of four to build a weather/alarm clock.
