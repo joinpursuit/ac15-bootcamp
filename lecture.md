@@ -29,7 +29,7 @@ title {
 Programmers can be religious about style. Rather than bore you with the details, I'd like you to just follow these formatting conventions:
 
 Good HTML:
-```
+```html
 <body>
     <head></head>
     <body>
@@ -43,7 +43,7 @@ Good HTML:
 ```
 
 Bad HTML:
-```
+```html
 <body>
     <head></head>
         <body>
@@ -58,7 +58,7 @@ Bad HTML:
 ```
 
 Good CSS:
-```
+```css
 #someId {
     background: blue;
 }
@@ -69,7 +69,7 @@ Good CSS:
 ```
 
 Bad CSS:
-```
+```css
 #someId {
     background:blue;
 }
