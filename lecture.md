@@ -121,7 +121,7 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 **Inline**
 - `width` and `height` cannot be set
 - Allows other elements to sit to their left and right
-- `padding` and `margin` can be set for the left and rigth but not bottom or top
+- `padding` and `margin` can be set for the left and right but not bottom or top
 
 **Block**
 - Forces a line break after the block element
