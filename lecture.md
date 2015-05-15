@@ -79,7 +79,7 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 
 > **Exercise:** Create a page with four sections: two horizontal sections with two equal-width sections in between. See the example below. Don't use a table. Use `float` and `clear`.
 >
-> ![float-clear](float-clear.png)
+> ![float-clear](images/float-clear.png)
 
 # In-class assignment
 Work in teams of four to build a weather/alarm clock.
