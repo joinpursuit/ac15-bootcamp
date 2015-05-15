@@ -24,7 +24,29 @@ title {
 }
 ```
 
-> **Exercise:** ???
+### A Word on Style
+
+Programmers can be religious about style. Rather than bore you with the details, I'd like you to just follow these formatting conventions:
+
+CSS
+
+```css
+[selector] {
+    [property]: [value]
+}
+```
+
+Multiple selectors:
+
+```css
+[selector1],
+[selector2] {
+    [property]: [value]
+}
+```
+
+Consistency is key. Want to see a lot of good CSS? Check out [http://getbootstrap.com/dist/css/bootstrap.css](Twitter Bootstrap).
+
 
 ### Box Model (padding and margins)
 
@@ -105,6 +127,4 @@ The `display` property has three possible values: `inline`, `block`, and `inline
 Work in teams of four to build a weather/alarm clock.
 
 # Homework assignment
-[Here](https://github.com/C4Q/ac15-bootcamp/blob/master/assignment.md)
-
-
+[Here](assignment.md)
