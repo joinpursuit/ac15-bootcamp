@@ -22,7 +22,7 @@ The form is due 7:00PM on Sunday, May 17. Please complete [this form](https://c4
 _If you were in the afternoon workshop:_ 
 The form is due 11:30PM on Sunday, May 17. Please complete [this form](https://c4qnyc.wufoo.com/forms/m1udli9s1vp3bvm/)
 
-Please pay attention to the deadlines.  Submissions will not be accepted after 
+Please pay attention to the deadlines.  Submissions will not be accepted after the deadline.
 
 Things you *will* be evaluated on.
 =
