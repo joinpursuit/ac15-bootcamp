@@ -16,10 +16,14 @@ Environment
 =
 
 For this workshop, we'll use a simplified web development environment,
-[jsbin](http://jsbin.indetermi.net:3000).  This site allows web developers to create and experiment
+[JS Bin](http://jsbin.indetermi.net:3000).  This site allows web developers to create and experiment
 with simple web pages in an easy online environment.  You'll edit HTML and CSS
 code directly on the site, and your web page will be rendered (displayed) live
 in the same window.  It's the easiest way to get started.
+
+For this workshop, please use the JS Bin service at this URL: http://jsbin.indetermi.net:3000
+
+Please create an account for yourself and log in.
 
 Files
 =
