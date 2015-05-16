@@ -9,7 +9,7 @@ Build your own personal page!
 
 Implementation
 =
-- Please use [JS Bin](http://jsbin.indetermi.net:3000/?html,output) for the assignment, or _only_ if you have issues with JS Bin, you can use a similar tool like [codepen](http://codepen.io) or [cssdeck](http://cssdeck.com).
+- Please use [JS Bin](http://jsbin.indetermi.net:3000/?html,output) for the assignment.  Use the JS Bin at http://jsbin.indetermi.net:3000, _not_ ht&#8203;tp://jsbin.com.  _Only_ if you have problems with JS Bin, you can use a similar tool like [codepen](http://codepen.io) or [cssdeck](http://cssdeck.com).
 - Make sure you have created an account and logged in.  You should see the word `Account` next to `Help` in the upper left.
 - _Save your work frequently._
 - Click `File > Save snapshot` to save your work.
