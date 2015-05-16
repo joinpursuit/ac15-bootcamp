@@ -6,6 +6,10 @@ For this workshop, we'll use a simplified web development environment, [JS Bin](
 with simple web pages in an easy online environment. You'll edit HTML and CSS code directly on the site, and your web page will be rendered (displayed) live
 in the same window. It's the easiest way to get started.
 
+For this workshop, please use the JS Bin service at this URL: http://jsbin.indetermi.net:3000
+
+Please create an account for yourself and log in.
+
 ### Review of CodeAcademy's HTML & CSS course
 
 HTML
