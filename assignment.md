@@ -8,16 +8,20 @@ Build your own personal page!
 
 Implementation
 =
-- Please use [JS Bin](http://jsbin.indetermi.net:3000/?html,output) for the assignment, or only if you have issues with JS Bin, you can use a similar tool like [codepen](http://codepen.io) or [cssdeck](http://cssdeck.com).
+- Please use [JS Bin](http://jsbin.indetermi.net:3000/?html,output) for the assignment, or _only_ if you have issues with JS Bin, you can use a similar tool like [codepen](http://codepen.io) or [cssdeck](http://cssdeck.com).
+- Make sure you have created an account and logged in.  You should see the word `Account` next to `Help` in the upper left.
 - _Save your work frequently._
 - Click `File > Save snapshot` to save your work.
 - Click `Share` and copy the link under `Output only (with live reload)`.
+- Also click `File > Download` and save a copy of your work on your computer, just in case.
 
 _If you were in the morning workshop:_ 
 The form is due 7:00PM on Sunday, May 17. Please complete [this form](https://c4qnyc.wufoo.com/forms/m1udli9s1vp3bvm/)
 
 _If you were in the afternoon workshop:_ 
 The form is due 11:30PM on Sunday, May 17. Please complete [this form](https://c4qnyc.wufoo.com/forms/m1udli9s1vp3bvm/)
+
+Please pay attention to the deadlines.  Submissions will not be accepted after 
 
 Things you *will* be evaluated on.
 =
