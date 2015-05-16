@@ -5,6 +5,7 @@ Build your own personal page!
 - Consider using `ul`, `ol`, and `table` tags for additional structure.
 - Use header (`h1`, `h2`...), `p`, and `span` tags for textual hierarchy.
 - Use fonts, colors, borders, positioning or whatever else to make it fun.
+- Include images!  Considering adding a headshot so we know who you are.
 
 Implementation
 =
